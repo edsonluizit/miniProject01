@@ -40,3 +40,19 @@ form-validation/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/edsonluizit/miniProject01.git
+
+## 📦 Changelog
+
+---
+
+### [v1.0.1] - 2025-05-29
+- ✅ Melhorias visuais no formulário
+- ✅ Ajustes no regex para maior precisão na validação
+- ✅ Mensagens de erro mais claras para o usuário
+
+### [v1.0.0] - 2025-05-28
+- 🚀 Primeira versão publicada
+- ✅ Formulário com campos: nome, e-mail e senha
+- ✅ Validação com RegEx
+- ✅ Botão de envio desabilitado até o formulário estar válido
+- ✅ Mensagens de erro e feedback visual (UX)
