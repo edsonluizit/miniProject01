@@ -40,10 +40,10 @@ form-validation/
 1. Clone o repositório:
    ```bash
    git clone https://github.com/edsonluizit/miniProject01.git
+   
+---
 
 ## 📦 Changelog
-
----
 
 ### [v1.0.1] - 2025-05-29
 - ✅ Melhorias visuais no formulário
